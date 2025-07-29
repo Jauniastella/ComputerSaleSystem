@@ -56,6 +56,7 @@ namespace ComputerSaleSystem
             {
                 MessageBox.Show("Supplier Save Success", "Supplier Entry", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
             }
+            int a = 1;
         }
     }
 }
